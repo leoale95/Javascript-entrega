@@ -20,6 +20,7 @@ function AdivinarNumero(){
         }
     }
 
+    
     //Determinar el premio
     let premio = " "
     if (aciertos === 1) {
